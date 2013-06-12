@@ -4,8 +4,8 @@
 	main-window-geometry = 0x0+0+0
 
 [user]
-	name = J. Federico Hernandez
-	email = fede.hernandez@gmail.com
+	name = <your-name>
+	email = <your-email>
 
 [alias]
 	co = checkout
